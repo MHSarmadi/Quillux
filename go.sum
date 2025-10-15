@@ -1,0 +1,6 @@
+github.com/MHSarmadi/MACE v1.0.0 h1:KinMMDlvkyuQnZFiE6F4RdAe9BM/MN0DVX+mey6mF/0=
+github.com/MHSarmadi/MACE v1.0.0/go.mod h1:nUDniRo5mei4QD1D7nf4ON/2NH1u14fqvSW1SMbTsBQ=
+github.com/klauspost/cpuid/v2 v2.0.12 h1:p9dKCg8i4gmOxtv35DvrYoWqYzQrvEVdjQ762Y0OqZE=
+github.com/klauspost/cpuid/v2 v2.0.12/go.mod h1:g2LTdtYhdyuGPqyWyv7qRAmj1WBqxuObKfj5c0PQa7c=
+github.com/zeebo/blake3 v0.2.4 h1:KYQPkhpRtcqh0ssGYcKLG1JYvddkEA8QwCM/yBqhaZI=
+github.com/zeebo/blake3 v0.2.4/go.mod h1:7eeQ6d2iXWRGF6npfaxl2CU+xy2Fjo2gxeyZGCRUjcE=
